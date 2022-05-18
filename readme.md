@@ -1,12 +1,13 @@
-# Risk Taker
+# Base Docker
+
+## Todo
+Change `COMPOSE_PROJECT_NAME`
 
 ## Structure
 ```bash
 - container folder
-    - kozo-risktaker-docker
-    - kozo-risktaker-backend
-    - kozo-risktaker-frontend
-    - kozo-risktaker-admin
+    - msy-docker
+    - msy-marketing
 ```
 
 ## Start backend
